@@ -1,6 +1,10 @@
 mod baseball_game;
+mod k_closest_points_to_origin;
+mod maximum_average_subtree;
 mod merge_two_sorted_lists;
+mod minimum_cost_connect_sticks;
 mod most_common_word;
+mod partition_labels;
 mod reorder_data_in_log_files;
 mod subtree_of_another_tree;
 mod two_sum;
