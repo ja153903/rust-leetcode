@@ -1,10 +1,14 @@
 mod baseball_game;
+mod friend_circles;
+mod group_anagrams;
+mod inorder_successor_in_bst;
 mod k_closest_points_to_origin;
 mod maximum_average_subtree;
 mod merge_two_sorted_lists;
 mod minimum_cost_connect_sticks;
 mod most_common_word;
 mod partition_labels;
+mod product_of_array_except_self;
 mod reorder_data_in_log_files;
 mod subtree_of_another_tree;
 mod two_sum;
